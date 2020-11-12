@@ -5,7 +5,7 @@ date: "2017-07-17T00:00:00"
 authors:
 - Thijs Smit
 
-publication_types: ["2"]
+publication_types: ["1"]
 
 publication: "Master thesis - TU Delft repository"
 publication_short: "TU Delft repository"
@@ -19,6 +19,6 @@ featured: false
 #url_pdf: "http://resolver.tudelft.nl/uuid:8aa71d4b-7b68-4792-8f58-561becb11723"
 #url_code: "https://github.com/basnijholt/shortjunction"
 #url_data: "http://doi.org/10.4121/uuid:274bdd06-14a5-45c3-bc86-87d400082e34"
-links: [{name: "Repository", url: "http://resolver.tudelft.nl/uuid:8aa71d4b-7b68-4792-8f58-561becb11723"}]
+links: [{name: "TU Delft - Repository", url: "http://resolver.tudelft.nl/uuid:8aa71d4b-7b68-4792-8f58-561becb11723"}]
 
 ---
