@@ -87,7 +87,7 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 #address = {street = "ETH Honggerberg", city = "Zurich", country = "Switserland", country_code = "CH"}
-address = {street = "ETH Honggerberg, ETH Zurich", city = "Zurich", region = "Kanton Zurich", postcode = "8093", country = "Switzerland", country_code = "CH"}
+address = {street = "ETH Honggerberg, ETH Zurich", city = "Zurich", postcode = "8093", country = "Switzerland", country_code = "CH"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "47.407854", longitude = "8.510981"}
@@ -173,7 +173,8 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  #en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-us = {order = ['street', 'city', 'country'], delimiters = [', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
