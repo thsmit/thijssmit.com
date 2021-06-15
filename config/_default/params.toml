@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/thsmit/thijssmit.com", content_dir =
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "thsmit@ethz.ch"
 phone = ""
 
 # Address
@@ -93,14 +93,14 @@ address = {street = "ETH Honggerberg", city = "Zurich", country = "Switserland",
 coordinates = {latitude = "47.407854", longitude = "8.510981"}
 
 # Directions for visitors to locate you.
-directions = ""
+#directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -127,7 +127,7 @@ twitter = "Thijs_Smit"
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "01-01-2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
