@@ -21,10 +21,11 @@ organizations:
 bio: ""
 
 interests:
-- Computational design
+- [Topology optimization](https://www.thijssmit.com/topopt/)
 - Advanced finite element analysis
 - Open-source software
-- Sailing
+- Sailing, Cycling, Hiking
+- Value investing
 
 education:
   courses:
