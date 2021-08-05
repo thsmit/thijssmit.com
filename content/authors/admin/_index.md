@@ -54,7 +54,7 @@ social:
   link: https://github.com/thsmit
   icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/thijs-smit-0b06317/
+  link: https://www.linkedin.com/in/thijssmit0/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
