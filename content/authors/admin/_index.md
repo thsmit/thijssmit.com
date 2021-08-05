@@ -22,7 +22,7 @@ bio: ""
 
 interests:
 - [Topology optimization](https://www.thijssmit.com/topopt/)
-- Advanced finite element analysis
+- Computational mechanics
 - Open-source software
 - Sailing, Cycling, Hiking
 - Value investing
