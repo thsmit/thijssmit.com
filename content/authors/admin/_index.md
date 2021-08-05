@@ -74,4 +74,4 @@ user_groups:
 
 Hi, I am Thijs. I'm a PhD student in Biomechanics, born and raised in Rotterdam, living in Switzerland. In my PhD, I am developing computational design and optimization tools for orthopedic implants, which you can check out at on my Github page: [<em class="fab fa-github fa-fw"> </em>](https://github.com/thsmit).
 
-My free time I spend on the bicycle in the Alps and I am a value investing enthusiast. 
+My free time I spend on the bicycle in the Alps and I am a value investing enthusiast. Inspired by [Derek Sivers](https://sive.rs/nowff), I created my very own [/now](https://www.thijssmit.com/now/) page :-)
