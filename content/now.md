@@ -7,6 +7,21 @@ commentable: true
 editable: false
 ---
 
-> TopOpt in Python
+# What I am doing now...
 
-For the open-source enthousiasts among us. Herewith a collection of learning resourses and code using [Python](https://python.org/). 
+([This is a /now page](https://nownownow.com/about/))
+
+## Two years into my PhD
+
+## Going 'deep' into Value investing
+
+## Life in Switzerland
+
+## Road cycling: [alpenbrevet](https://www.alpenbrevet.ch/en/)
+
+***
+
+Best, 
+Thijs
+
+5th of August 2021, Zurich, Switzerland
