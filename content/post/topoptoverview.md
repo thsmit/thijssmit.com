@@ -6,11 +6,11 @@ draft: false
 
 It looks like every engineering software package can do Topology optimization these days. Here is my experience...
 
-..* Every self respecting engineer software package has a Topology optimization module these days, but don't be surprised if find out that they all give you different results for the same problem. Why? Because these software tools are just being developed and there are a lot of parameters to tune which influences the result. So basically, there is no standard jet.
+* Every self respecting engineer software package has a Topology optimization module these days, but don't be surprised if find out that they all give you different results for the same problem. Why? Because these software tools are just being developed and there are a lot of parameters to tune which influences the result. So basically, there is no standard jet.
 
-..* There are different 'approaches' to Topology optimization. The density based topology optimization method is mostly used and easiest for beginners.
+* There are different 'approaches' to Topology optimization. The density based topology optimization method is mostly used and easiest for beginners.
 
-..* There are two paths you can take: 1) use off-the-shelf (commercial) engineering software or 2) use open-source software code. Let's look at which path is best for you...
+* There are two paths you can take: 1) use off-the-shelf (commercial) engineering software or 2) use open-source software code. Let's look at which path is best for you...
 
 ### Commercial vs. open-source software
 If you want to start with Topology optimization, let me give you an idea which choice you have to make first. The commercial engineering software packages all have Topology optimization capability. Off-course these cost money, but maybe you can get a free trail or pay per use. From experience I can tell that it takes a while to understand it well enough to get reasonable results, so give yourself some time. To good thing is that if you can't do any programming, for the commercial software you don't need to and than this is probably your best choice. On the other hand, not all the newest features are available in the commercial packages, which are on the open-source codes.
@@ -35,6 +35,6 @@ Looking at the open-source codes we can subdivide per programming language or ca
 
 ### Latest trends in TO
 
-..* Larger
+* Larger
 
-..* AI
+* AI
