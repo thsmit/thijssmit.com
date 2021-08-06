@@ -22,7 +22,6 @@ bio: ""
 
 interests:
 - Topology optimization
-url: "https://www.thijssmit.com/topopt/"
 - Computational mechanics
 - Open-source software
 - Sailing, Cycling, Hiking
