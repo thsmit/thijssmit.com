@@ -1,7 +1,7 @@
 ---
-title: "topology optimization explained"
+title: "Topology optimization explained"
 date: 2021-08-06T07:03:31+02:00
-draft: false
+draft: true
 ---
 
 You want to explore the possibilities of Topology optimization, but where do you start? Can I use a commercial or open-sourse engineering software? And which programming language do I need? 
